@@ -12,7 +12,11 @@
   <img src="https://techtweekinfotech.com/wp-content/uploads/2024/05/about-full.gif" width="400" />
 </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaskar-nayak" alt="bhaskar-nayak" /></a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=bhaskar-nayak&theme=onedark" />
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
