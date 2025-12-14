@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋 I'm Bhaskar</h1>
+<h1 align="center">Hi 👋, I'm Bhaskar Nayak</h1>
+
+<p align="center">
+  🚀 Full Stack Developer | 💻 Web Enthusiast | 🌱 Lifelong Learner
+</p>
+
+<p align="center">
+  I specialize in building scalable web applications using modern frontend and backend technologies.
+</p>
 
 <p align="center">
   <img src="https://techtweekinfotech.com/wp-content/uploads/2024/05/about-full.gif" width="400" />
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bhaskar-nayak&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhaskar-nayak" alt="bhaskar-nayak" /></a> </p>
