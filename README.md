@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=bhaskar-nayak&theme=radical](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkiFi_q68pBQPcJw0JZ3-q47uk550nV79pRw&s)"
+  <img src="https://github-profile-trophy.vercel.app/?username=bhaskar-nayak&theme=radical"
        alt="GitHub Profile Trophy" />
 </p>
 
